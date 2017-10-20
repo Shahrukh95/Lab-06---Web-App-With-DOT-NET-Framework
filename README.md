@@ -1,2 +1,4 @@
 # Lab-06---Web-App-With-DOT-NET-Framework
-Advanced Programming Lab
+
+Run WebForm1.aspx
+To view the submitted data, go to admin page (link provided in WebForm1.aspx)
